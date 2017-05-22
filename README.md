@@ -1,4 +1,6 @@
 # new-project
+# 学习饿了吗2.0 全家桶项目 
+# 熟悉vue2.0
 
 > A Vue.js project
 
